@@ -14,11 +14,11 @@ This is a Flask-based RESTful API for managing users, projects, and tasks with s
 
 ## Setup Instructions
 
-1. **Open zip file**
+1. **Clone the Git repository**
 
      ```
-     extract zip file
-     cd TMS
+     git clone https://github.com/BHANUUPRETI/TaskManagementSystem-main.git
+     cd TaskManagementSystem-main
      ```
 
 2. **Create a virtual environment (optional but recommended)**
