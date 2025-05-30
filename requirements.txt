@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_migrate
+psycopg2-binary
+python-dotenv
+pyjwt
+flask-bcrypt
+psycopg2
